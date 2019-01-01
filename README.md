@@ -6,3 +6,4 @@ Specification :
 - Arduino Nano
 - IMU GY-25
 - XBee Pro S2
+- Bluetooth V4 - HM 11
